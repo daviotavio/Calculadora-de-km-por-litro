@@ -1,0 +1,16 @@
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\km por litro\obj\Debug\net5.0\km por litro.csproj.AssemblyReference.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\km por litro\obj\Debug\net5.0\km por litro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\km por litro\obj\Debug\net5.0\km por litro.AssemblyInfoInputs.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\km por litro\obj\Debug\net5.0\km por litro.AssemblyInfo.cs
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\km por litro\obj\Debug\net5.0\km por litro.csproj.CoreCompileInputs.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\km por litro\bin\Debug\net5.0\km por litro.exe
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\km por litro\bin\Debug\net5.0\km por litro.deps.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\km por litro\bin\Debug\net5.0\km por litro.runtimeconfig.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\km por litro\bin\Debug\net5.0\km por litro.runtimeconfig.dev.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\km por litro\bin\Debug\net5.0\km por litro.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\km por litro\bin\Debug\net5.0\ref\km por litro.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\km por litro\bin\Debug\net5.0\km por litro.pdb
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\km por litro\obj\Debug\net5.0\km por litro.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\km por litro\obj\Debug\net5.0\ref\km por litro.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\km por litro\obj\Debug\net5.0\km por litro.pdb
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\km por litro\obj\Debug\net5.0\km por litro.genruntimeconfig.cache
